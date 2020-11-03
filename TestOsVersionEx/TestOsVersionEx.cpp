@@ -1,5 +1,7 @@
 ///配置说明，VS2019需要关闭SDL
 /// VS2005加载TestOsVersionEx.manifest需要更改文件名为TestOsVersionEx.exe.maifest
+/// 
+/// reference：https://docs.microsoft.com/zh-cn/windows/win32/api/winnt/ns-winnt-osversioninfoexa
 
 #include <iostream>
 #include <stdlib.h>
