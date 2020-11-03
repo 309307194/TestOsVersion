@@ -1,4 +1,5 @@
-///
+///配置说明，VS2019需要关闭SDL
+/// VS2005加载TestOsVersionEx.manifest需要更改文件名为TestOsVersionEx.exe.maifest
 
 #include <iostream>
 #include <stdlib.h>
