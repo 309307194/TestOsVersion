@@ -20,6 +20,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Manifest Include="TestOsVersion.exe.manifest" />
+    <Manifest Include="TestOsVersionEx.manifest" />
   </ItemGroup>
 </Project>
